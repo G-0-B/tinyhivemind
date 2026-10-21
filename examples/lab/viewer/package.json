@@ -12,6 +12,6 @@
     "hive-check": "node tools/hive-check.mjs"
   },
   "devDependencies": {
-    "vite": "^7.0.0"
+    "vite": "^7.3.7"
   }
 }
